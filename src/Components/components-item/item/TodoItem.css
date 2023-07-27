@@ -1,0 +1,25 @@
+.hoverCheck {
+    border-radius: 50%;
+    color: black;
+}
+.CheckActive {
+    background-color: black;
+    color:white
+}
+.textCheckActive{
+    text-decoration: line-through;
+    color: #888;   
+}
+.text {
+    font-weight: bold;
+}
+.backgroundCheckActive {
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);    
+}
+.hoverCheck:hover {
+    background-color: green;
+}
+.gato {
+    box-shadow:10px 5px 0px black;
+}
